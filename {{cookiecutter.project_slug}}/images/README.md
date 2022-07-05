@@ -1,0 +1,1 @@
+This is where you put the image that you will use in your text.

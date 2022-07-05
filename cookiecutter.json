@@ -1,0 +1,6 @@
+{
+    "project_title": "",
+    "date": "{% now 'local', '%Y-%m-%d' %}",
+    "project_slug": "{{ cookiecutter.date + '-' + cookiecutter.project_title|lower|replace(' ', '-') }}",
+    "author_name": ""
+}

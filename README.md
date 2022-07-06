@@ -7,7 +7,27 @@ This is a cookiecutter template for writing project based on Five Steps to Succe
 
 ### Why Overlap?
 
-Because when you are writing, you are trying to convey your idea, perception, or model to your reader. Therefore after your audience read your writing they should be able to decode your writing into idea, perception, and model inside their head. And the more effective your writing there should be more **overlap** of idea, perception, and model that you are trying to convey and the one that they receive.
+Because when you are writing, you are trying to convey your idea, perception, or model to your reader. Therefore after your audience read your writing they should be able to decode your writing into idea, perception, and model inside their head. And the more effective your writing there should be more **overlap** of idea, perception, and model that you are trying to convey and the one that they internalize.
+
+### What is Five Steps to Successful Writing?
+
+It is actually a chapter from Handbook of Technical Writing by Arled, Brusaw, and Oliu. If you can not access this book there are various similar materials on the internet if you use Five Steps to Successful Writing as the keywords. It consists of five steps that you can use to achieve effective writing, those steps are:
+
+1. Preparation/Planning  
+   - Establish your primary purpose
+   - Assess your audience and the context
+   - Determine the scope of your coverage
+   - Select the appropriate medium
+2. Research
+   - Describe methods of research
+   - Enumerate sources of information
+3. Organization
+   - Choose a primary method of development
+   - Outlining
+4. Writing
+5. Revising
+
+And, all of these tasks can be tedious. Moreover it is easy to have a messy and inconsistent directory that filled with cluttered files with arbitrary names. This template help you to deal with these kind of problem.
 
 ### How to Use this Template
 
